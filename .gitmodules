@@ -1,0 +1,3 @@
+[submodule "themes/cactus-plus"]
+	path = themes/cactus-plus
+	url = https://github.com/jordinebot/hugo-theme-cactus-plus

@@ -1,0 +1,40 @@
+body {
+	font-family: sans-serif;
+}
+
+.on-list .post-title {
+	font-size: 2rem;
+}
+
+.post-content {
+	font-weight: initial;
+}
+
+.post-content a {
+	color: #fe5186;
+}
+
+.read-more.button {
+	color: #fe5186;
+}
+
+.post-tag {
+	font-weight: bold;
+	color: var(--light-color-secondary);
+}
+
+.post-tag:hover {
+	color: initial;
+}
+
+.terms__term-count {
+	background: #fe5186;
+	color: white;
+	border-radius: 100%;
+	display: inline-block;
+	height: 1.25rem;
+	line-height: 1.75;
+	padding: 0;
+	text-align: center;
+	width: 1.25rem;
+}
